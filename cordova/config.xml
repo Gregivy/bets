@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget android-packageName="com.autobets" android-versionCode="1" id="com.autobets" version="1.0.0">
+  <name>AutoBets</name>
+  <description>
+   Tabris testing
+  </description>
+  <author email="gpoi@mail.ru" href="https://vk.com/gregp">
+   Plyusch Gregory
+  </author>
+  <plugin name="cordova-plugin-inappbrowser" version="1.3.0" />
+</widget>
